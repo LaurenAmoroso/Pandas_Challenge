@@ -1,1 +1,2 @@
 # Pandas_Challenge
+the homework has been uploaded and with the dataframes, it looks like the schools that have the highest budgets also have the lowest test scores/passing rate. The data frames also show that Bailey High School has the largest per student budget, is the largest school and reflects the lowest scores. Also, the district schools accross the board [Bailey is also one of them] have an average of a 50% passing rate compared to their Charter counterparts that are at 89-90% passing. I guess I'm going to put my kid in a Charter School :)
